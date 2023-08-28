@@ -6,6 +6,6 @@ on Bayes' theorem. It's commonly used for text classification tasks. In your
 project, you're utilizing the Bernoulli Naive Bayes variant to model the 
 likelihood of words occurring in stressful and non-stressful messages. 
 # Spam 
-spam.csv file contain Dataset. which is taken from kaggle. dataset collected social media comments. the are labe as spam(1) ans ham(not spam 1).
+spam.csv file contain Dataset. which is taken from kaggle. dataset collected social media comments.label as spam(1) ans ham(not spam 1).
 # stress_Detection.python 
 trained model is use to detect stress of text.
